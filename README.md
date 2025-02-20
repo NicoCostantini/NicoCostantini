@@ -1,8 +1,12 @@
 ### Hi there 👋 I'm [Nicolás G. Costantini!](https://github.com/NicoCostantini)
 
-<img align="right" alt="GIF" height="160px" src="https://i.imgur.com/Uz4i5Lr.png" />
+<img align="right" alt="GIF" height="260px" src="https://i.imgur.com/Uz4i5Lr.png" />
 
 ### 👨‍💻 I'm a Information System Engineer | Junior Web Developer
+
+
+
+
 ## 💡 About Me:
 - I’m a Information Systems Engineer with hands-on experience in building websites and web applications using modern technologies like React, TailwindCSS, .NET, SQL Server and Firebase. My focus is on crafting seamless, visually appealing interfaces.
 
