@@ -2,19 +2,19 @@
 
 <img align="right" alt="GIF" height="260px" src="https://i.imgur.com/Uz4i5Lr.png" />
 
-### 👨‍💻 I'm a Information System Engineer | Junior Web Developer
+## 👨‍💻 I'm a Information System Engineer | Junior Web Developer
 
 
 
 
-## 💡 About Me:
+### 💡 About Me:
 - I’m a Information Systems Engineer with hands-on experience in building websites and web applications using modern technologies like React, TailwindCSS, .NET, SQL Server and Firebase. My focus is on crafting seamless, visually appealing interfaces.
 
-## 🎯 My Goals:
+### 🎯 My Goals:
 - Continue improving my expertise in frontend and backend development.
 - Contribute to innovative projects that solve real-world problems.
   
-## 🚀 What Drives Me:
+### 🚀 What Drives Me:
 - Constantly learning and growing in the world of web development.
 - Improving my English skills
 
