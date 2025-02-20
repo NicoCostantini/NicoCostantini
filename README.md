@@ -1,8 +1,9 @@
 ### Hi there 👋 I'm [Nicolás G. Costantini!](https://github.com/NicoCostantini)
+## 👨‍💻 Information System Engineer | Junior Web Developer
 
 <img align="right" alt="GIF" height="260px" src="https://i.imgur.com/Uz4i5Lr.png" />
 
-## 👨‍💻 I'm a Information System Engineer | Junior Web Developer
+
 
 
 
