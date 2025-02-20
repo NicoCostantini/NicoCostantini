@@ -1,13 +1,20 @@
 ### Hi there 👋 I'm [Nicolás G. Costantini!](https://github.com/NicoCostantini)
 
-<img align="right" alt="GIF" height="160px" src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=L-J1EFIJzlFXa-2bu5K-SqOT0PXYAaPZgXxnpneoF0U" />
+<img align="right" alt="GIF" height="160px" src="https://i.imgur.com/Uz4i5Lr.png" />
 
-## I'm a Information System Engineer
+### 👨‍💻 I'm a Information System Engineer | Junior Web Developer
+## 💡 About Me:
+- I’m a Information Systems Engineer with hands-on experience in building websites and web applications using modern technologies like React, TailwindCSS, .NET, SQL Server and Firebase. My focus is on crafting seamless, visually appealing interfaces.
 
-- 👨‍💻 I'm currently working as a web developer
-- 📚 Learning about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies.
+## 🎯 My Goals:
+- Continue improving my expertise in frontend and backend development.
+- Contribute to innovative projects that solve real-world problems.
+  
+## 🚀 What Drives Me:
+- Constantly learning and growing in the world of web development.
+- Improving my English skills
 
+  
 ---
 
 ##### My technologie stack
